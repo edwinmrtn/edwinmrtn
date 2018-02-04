@@ -1,0 +1,23 @@
+
+title: My Resume
+url: 'http://junlulocky.com'
+baseurl: '/PanelCV' #change it according to your repository name
+
+
+
+# Profile information
+yourname: Edwin MARTIN  ## put your name
+title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
+location: Paris, FR
+
+
+
+## Social Profiles
+facebook: https://www.facebook.com/profile.php?id=100009331607270  ## your facebook account url
+linkedin: https://www.linkedin.com/in/edwin-martin-62489677/  ## your linkedin account url
+github: https://github.com/edwinmrtn  ## your linkedin account url
+instagram: https://www.instagram.com/edwinmrtn/  ## your linkedin account url
+youtube: https://www.youtube.com/channel/UCNAIin2Ql7_l5evnuyuE8-Q  ## your linkedin account url
+
+
+# Update all the sections by editing the files inside _includes folder.
