@@ -5,7 +5,7 @@ $(function() {
         target: 'portfoliolist',
         get: 'user',
         userId: '4183681469',
-        accessToken: '4183681469.1677ed0.9a4fbf66ea774f3591d074a825e57253',
+        accessToken: '4183681469.1677ed0.119c056b20b84eefbdb3bf4c7705f655',
         links: true,
         limit: 8,
         sortBy: 'most-recent',

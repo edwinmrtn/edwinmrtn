@@ -20,4 +20,4 @@ Check out for more themes: [Jekyll Themes](http://jekylltheme.org)
 
 # Author
 
-- [Locky](https://github.com/junlulocky)"# edwinmrtn" 
+- [Locky](https://github.com/junlulocky)
